@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": ".bind",
+    "password": "",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": ".bind"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,15 +31,15 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "зЕСТИАЛ ГЕЙ",
+        "ЗЕСТИАЛ ЛЮБИТ МАЛЬЧИКОВ",
+        "ЗЕСТИАЛ ЛЮБИТ ВАЛЕНТИНО"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 20,
+    "max-reconnect-delay": 12
   },
   "movement": {
     "enabled": true,
